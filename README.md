@@ -1,7 +1,5 @@
 # magnit-cli
 
-<div align="center">
-
 ```text
                                "      m                  ""#      "
 mmmmm   mmm    mmmm  m mm   mmm    mm#mm          mmm     #    mmm
@@ -11,7 +9,7 @@ mmmmm   mmm    mmmm  m mm   mmm    mm#mm          mmm     #    mmm
                m  #
                 ""
 ```
-
+<div align="center">
 <!-- Badges -->
 
 ![Status: Pre-release](https://img.shields.io/badge/Status-Pre--release-orange?style=flat-square)
